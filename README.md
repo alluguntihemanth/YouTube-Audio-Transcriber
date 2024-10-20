@@ -2,7 +2,7 @@
 ## 🎙️ **Deepgram & ElevenLabs Integration**  
 
 <p align="center">
-  <img src="https://cdn.prod.website-files.com/5fac161927bf86485ba43fd0/64705e36d6c173f75626cf6b_Blog-Cover-2022_02_How-to-Transcribe-Audio-to-Text-(Automatically-_-For-Free).jpeg" alt="Transcribing Audio to Text" width="400" style="margin-right: 20px;"/>
+  <img src="https://cdn.prod.website-files.com/5fac161927bf86485ba43fd0/64705e36d6c173f75626cf6b_Blog-Cover-2022_02_How-to-Transcribe-Audio-to-Text-(Automatically-_-For-Free).jpeg" alt="Transcribing Audio to Text" width="400" height="200" style="margin-right: 20px;"/>
   <img src="https://www.folio3.ai/blog/wp-content/uploads/2022/03/Text-To-Speech.jpg" alt="Text to Speech" width="400"/>
 </p>
  
