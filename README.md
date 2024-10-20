@@ -83,7 +83,8 @@ To use the script, simply specify a YouTube video URL in the `video_processing.p
 ---
 
 ## 🤝 **Contributing**  
-We welcome contributions! Feel free to fork the repository and make your improvements. Guidelines for formal contributions will be established soon.
+We appreciate your interest! However, we are still finalizing the contribution process.  
+In the meantime, feel free to fork the repository and experiment with the code. We plan to introduce formal contribution guidelines soon.
 
 ---
 
